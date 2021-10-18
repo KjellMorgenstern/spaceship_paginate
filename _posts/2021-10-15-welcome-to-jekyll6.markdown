@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to Jekyll 6!"
-date:   2021-10-15 19:03:03 +0200
+title:  "Renders fine in individual post"
+date:   2021-10-15 19:03:02 +0200
 categories: jekyll update
 ---
 
